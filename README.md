@@ -1,4 +1,5 @@
-Bank Loan Applications Tracking Dashboard
+*Bank Loan Applications Tracking Dashboard*
+
 In this project, I built a Bank Loan Applications Tracking Dashboard to analyze and visualize key loan metrics such as application trends, approval rates, and interest rate performance. This dashboard provides actionable insights to help monitor loan processing and identify important patterns.
 
 What I did
